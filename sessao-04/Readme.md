@@ -2,16 +2,9 @@
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Proteger o canal de gestão remota do servidor Ubuntu, eliminando a autenticação tradicional por password e migrando para autenticação criptográfica com chave Ed25519.
-
----
-
-##  Ambiente Utilizado
-
-- **TryHackMe — Linux Strength Training**  
-  https://tryhackme.com/room/linuxstrengthtraining
 
 ---
 
